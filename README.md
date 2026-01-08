@@ -1,2 +1,0 @@
-# NKUST_AICUP_F114152130
-NKUST 類神經網路期末報告
