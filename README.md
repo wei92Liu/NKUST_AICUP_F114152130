@@ -1,12 +1,9 @@
 # 類神經網路期末報告 — AICUP 心臟 3D 影像分割（SwinUNETR / MONAI）
 
----
-
 隊伍：TEAM_8929
 隊員：劉育瑋
 Private leaderboard：0.734497 / Rank 139
 
----
 
 此 Repo 為 **AICUP 競賽專案**的程式碼整理與實驗紀錄，任務為 3D 心臟 CT（NIfTI `.nii.gz`）多類別分割：
 
