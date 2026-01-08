@@ -1,6 +1,6 @@
 # NKUST_AICUP_F114152130 — AICUP 心臟 3D 影像分割（SwinUNETR / MONAI）
 
-此 Repo 為校外 **AICUP 競賽專案**的程式碼整理與實驗紀錄，任務為 3D 心臟 CT（NIfTI `.nii.gz`）多類別分割：
+此 Repo 為 **AICUP 競賽專案**的程式碼整理與實驗紀錄，任務為 3D 心臟 CT（NIfTI `.nii.gz`）多類別分割：
 
 - Class 0：背景（Background）
 - Class 1：心肌（Myocardium）
@@ -128,7 +128,7 @@ pip install monai nibabel numpy tqdm tensorboard
 
 ---
 
-## 7. 建議的 .gitignore（避免誤上傳資料與權重）
+<!-- ## 7. 建議的 .gitignore（避免誤上傳資料與權重）
 
 建立 `.gitignore`，加入：
 
@@ -151,14 +151,14 @@ aicup/
 *.log
 ```
 
----
+--- -->
 
-## 8. 參考資源
+## 7. 參考資源
 - PyTorch：https://pytorch.org/
 - MONAI：https://monai.io/
 - OpenAI GPT-5.1：https://openai.com/index/gpt-5-1/
 
 ---
 
-## 9. 資料聲明
+## 8. 資料聲明
 本 Repo 僅包含程式碼與說明文件，不包含競賽資料集與影像標註；競賽資料請依主辦單位規範使用與保存。
